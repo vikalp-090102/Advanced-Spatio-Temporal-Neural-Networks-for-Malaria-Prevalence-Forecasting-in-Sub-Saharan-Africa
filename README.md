@@ -1,1 +1,1 @@
-# Advanced-Spatio-Temporal-Neural-Networks-for-Malaria-Prevalence-Forecasting-in-Sub-Saharan-Africa.
+# Advanced-Spatio-Temporal-Neural-Networks-for-Malaria-Prevalence-Forecasting-in-Sub-Saharan-Africa
